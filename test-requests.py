@@ -20,7 +20,9 @@ def send_requests(url, num_requests):
         
             
 # Container            
-# send_requests("https://cr380-demo-qsqlsyejkq-nn.a.run.app",100)
+# send_requests("https://cr380-demo-qsqlsyejkq-nn.a.run.app",1000)
+# 13:03:26 - 13:08:57
 
 # VM
-# send_requests("http://34.47.19.169:8080/",1000)
+# send_requests("http://35.203.124.6:3000/",1000)
+# 13:10:04 - 13:10:23
